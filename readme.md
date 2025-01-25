@@ -1,1 +1,3 @@
 # Sklep
+## autorzy: 
+* Pola Nienajdło
